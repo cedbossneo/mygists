@@ -1,3 +1,3 @@
 ### Status
-[![Build Status](https://travis-ci.org/simkimsia/UtilityBehaviors.png)](https://travis-ci.org/simkimsia/UtilityBehaviors)
+[![Build Status](https://travis-ci.org/cedbossneo/mygists.png)](https://travis-ci.org/cedbossneo/mygists)
 # mygists
