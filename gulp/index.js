@@ -22,6 +22,8 @@ gulp.task('build', ['clean'], function (cb) {
   runSequence(['html', 'style', 'pack'], cb);
 });
 
+gulp.task('test', ['build']);
+
 gulp.task('default', [], function (cb) {
   global.dist = paths.tmp;
   runSequence(['style', 'serve'], cb);
